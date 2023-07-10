@@ -7,7 +7,7 @@
 [![MIT](https://img.shields.io/badge/licenses-MIT-red.svg)](https://opensource.org/licenses/MIT)  
 
 
-| ![launcher_256](https://github.com/jasudev/NCDP2023/assets/1617304/7086d4c4-a880-46b9-aefa-96dd911f67c1) |
+| ![launcher_256](https://github.com/jasudev/NCDP2023/assets/1617304/535fdf69-4e26-4cd4-aae6-33c27c8a5dc5) |
 | :------------: |
 | [**Download for Mac OS X**](https://github.com/jasudev/NCDP2023/raw/main/NCDP23.zip) |
 
