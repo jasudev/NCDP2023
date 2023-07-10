@@ -35,16 +35,16 @@ struct PGPresentation1: View {
                             .foregroundColor(Color.primaryLevel1)
                         VStack(alignment: .leading) {
                             itemView {
-                                LinkTextView("FabulaItemsProvider(https://github.com/jasudev/NCDP2023.git)", path: "https://github.com/jasudev/NCDP2023.git")
+                                LinkTextView("NCDP2023 for SwiftUI - https://github.com/jasudev/NCDP2023.git", path: "https://github.com/jasudev/NCDP2023.git")
                             }
                             itemView {
-                                LinkTextView("FabulaItemsProvider(https://github.com/jasudev/FabulaItemsProvider.git)", path: "https://github.com/jasudev/FabulaItemsProvider.git")
+                                LinkTextView("FabulaItemsProvider - https://github.com/jasudev/FabulaItemsProvider.git", path: "https://github.com/jasudev/FabulaItemsProvider.git")
                             }
                             itemView {
-                                LinkTextView("SDWebImageSwiftUI(https://github.com/SDWebImage/SDWebImageSwiftUI.git)", path: "https://github.com/SDWebImage/SDWebImageSwiftUI.git")
+                                LinkTextView("SDWebImageSwiftUI - https://github.com/SDWebImage/SDWebImageSwiftUI.git", path: "https://github.com/SDWebImage/SDWebImageSwiftUI.git")
                             }
                             itemView {
-                                LinkTextView("CodeHighlighter(https://github.com/mortenjust/CodeHighlighter.git)", path: "https://github.com/mortenjust/CodeHighlighter.git")
+                                LinkTextView("CodeHighlighter - https://github.com/mortenjust/CodeHighlighter.git", path: "https://github.com/mortenjust/CodeHighlighter.git")
                             }
                         }
                         .setFont(sizeType: .caption1, weight: .regular)
