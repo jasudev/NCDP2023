@@ -6,6 +6,8 @@
 [![instagram](https://img.shields.io/badge/instagram-@dev.fabula-orange.svg?style=flat-square)](https://www.instagram.com/dev.fabula)
 [![MIT](https://img.shields.io/badge/licenses-MIT-red.svg)](https://opensource.org/licenses/MIT)  
 
+● NC Youtube : [https://youtu.be/jpxmOR6BJl8](https://youtu.be/jpxmOR6BJl8)<br>
+● NC PLAY(블로그) : [https://about.ncsoft.com/news/article/NCDP2023-conference10](https://about.ncsoft.com/news/article/NCDP2023-conference10)
 
 | ![launcher_256](https://github.com/jasudev/NCDP2023/assets/1617304/535fdf69-4e26-4cd4-aae6-33c27c8a5dc5) |
 | :------------: |
