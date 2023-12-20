@@ -8,6 +8,7 @@
 
 ● NC Youtube : [https://youtu.be/jpxmOR6BJl8](https://youtu.be/jpxmOR6BJl8)<br>
 ● NC PLAY(블로그) : [https://about.ncsoft.com/news/article/NCDP2023-conference10](https://about.ncsoft.com/news/article/NCDP2023-conference10)
+● Let'Swift 2023 : [https://github.com/jasudev/LETSWIFT23](https://github.com/jasudev/LETSWIFT23)
 
 | ![launcher_256](https://github.com/jasudev/NCDP2023/assets/1617304/535fdf69-4e26-4cd4-aae6-33c27c8a5dc5) |
 | :------------: |
